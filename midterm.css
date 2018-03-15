@@ -1,0 +1,14 @@
+.navbar{
+  float:left;
+  background-color:white;
+  font: sans-serif;
+  padding-left:15px;
+  padding-right:15px;
+  padding-top:15px;
+  padding-bottom:100px;
+  font:sans-serif;
+}
+
+.main{
+	float:center;
+}
