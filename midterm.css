@@ -1,3 +1,4 @@
+//not working//
 body{
 background-color:#F6F6F6;
 }
@@ -12,7 +13,7 @@ background-color:#F6F6F6;
   font:sans-serif;
 }
 .contents{
-  float: left;
+  float:left;
   background-color:#F6F6F6;
   border: 1px solid grey;
   font: sans-serif;
@@ -24,7 +25,7 @@ background-color:#F6F6F6;
 }
 .main-container{
   float:center;
-  background-color:white;
+  background-color:grey;
   border: 1px solid #7accff;
   font: sans-serif;
   margin-left: 185px;
@@ -46,21 +47,18 @@ background-color:#F6F6F6;
 }
 .column{
   float: left;
-  background-color:white;
+  background-color:grey;
   font-family: sans-serif;
   font-size: 10px;
-  color: black;
+  color: white;
   line-height: 1.6;
   padding-left:5px;
   padding-right:5px;
   padding-top:5px;
   padding-bottom:5px;
-  width: 30%;
+  width: 400%;
 }
-.notes:after {
-    content: "";
-    display: table;
-    clear: both;
+
 }
 #footer{
   clear: both;
